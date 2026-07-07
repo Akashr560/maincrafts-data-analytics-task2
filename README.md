@@ -45,6 +45,10 @@ Visualizations:
 - Region Slicer
 - Segment Slicer
 
+## Dashboard
+
+![Dashboard](dashboard.png)
+
 ## Files Included
 - Orders.csv
 - Customers.csv
