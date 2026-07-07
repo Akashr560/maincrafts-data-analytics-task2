@@ -1,0 +1,21 @@
+Customer_ID,Customer_Name,Region,Segment
+CUST001,John Smith,North,Corporate
+CUST002,Sarah Johnson,South,Consumer
+CUST003,Michael Brown,East,Home Office
+CUST004,Emily Davis,West,Corporate
+CUST005,Robert Wilson,North,Consumer
+CUST006,Jessica Martinez,South,Home Office
+CUST007,David Anderson,East,Corporate
+CUST008,Lisa Thompson,West,Consumer
+CUST009,James Taylor,North,Home Office
+CUST010,Jennifer Garcia,South,Corporate
+CUST011,William Moore,East,Consumer
+CUST012,Patricia Jackson,West,Home Office
+CUST013,Richard Lee,North,Corporate
+CUST014,Mary White,South,Consumer
+CUST015,Charles Harris,East,Home Office
+CUST016,Susan Clark,West,Corporate
+CUST017,Joseph Lewis,North,Consumer
+CUST018,Nancy Walker,South,Home Office
+CUST019,Thomas Hall,East,Corporate
+CUST020,Karen Young,West,Consumer
