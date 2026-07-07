@@ -47,7 +47,7 @@ Visualizations:
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png) 
 
 ## Files Included
 - Orders.csv
